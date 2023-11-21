@@ -1,0 +1,4 @@
+D:/Project/STM/Test_F302R8/Core/Src/global.c:11:5:__io_putchar	1
+D:/Project/STM/Test_F302R8/Core/Src/global.c:25:6:printInfo	4
+D:/Project/STM/Test_F302R8/Core/Src/global.c:40:6:setUserLED	1
+D:/Project/STM/Test_F302R8/Core/Src/global.c:51:6:toggleUserLED	1

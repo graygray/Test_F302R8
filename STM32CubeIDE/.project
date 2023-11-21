@@ -127,6 +127,11 @@
 			<locationURI>PARENT-1-PROJECT_LOC/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_uart_ex.c</locationURI>
 		</link>
 		<link>
+			<name>Application/User/Core/global.c</name>
+			<type>1</type>
+			<locationURI>PARENT-1-PROJECT_LOC/Core/Src/global.c</locationURI>
+		</link>
+		<link>
 			<name>Application/User/Core/main.c</name>
 			<type>1</type>
 			<locationURI>PARENT-1-PROJECT_LOC/Core/Src/main.c</locationURI>

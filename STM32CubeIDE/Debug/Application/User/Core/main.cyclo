@@ -1,0 +1,6 @@
+D:/Project/STM/Test_F302R8/Core/Src/main.c:69:5:main	1
+D:/Project/STM/Test_F302R8/Core/Src/main.c:118:6:SystemClock_Config	3
+D:/Project/STM/Test_F302R8/Core/Src/main.c:157:13:MX_TIM2_Init	4
+D:/Project/STM/Test_F302R8/Core/Src/main.c:202:13:MX_USART2_UART_Init	2
+D:/Project/STM/Test_F302R8/Core/Src/main.c:237:13:MX_GPIO_Init	1
+D:/Project/STM/Test_F302R8/Core/Src/main.c:291:6:Error_Handler	1
